@@ -1,5 +1,3 @@
 {
-    "Columns Names": [
-        "BaseTicker"
-    ]
+    "description": "Market Title to Market Ids map"
 }
